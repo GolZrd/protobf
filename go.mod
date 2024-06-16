@@ -1,4 +1,4 @@
-module protobf
+module github.com/GolZrd/protobf
 
 go 1.22.0
 
